@@ -153,7 +153,7 @@ all. Therefore the navbar tag starts before the php tag but it end within the ph
           echo "<td>$nickname</td>";
           echo "</tr>";
           echo "<tr>";
-          echo "<th scope='row'>Email</th>";
+          echo "<th scope='row'>Password</th>";
           echo "<td>$pwd</td>";
           echo "</tr>";
           echo "<tr>";
